@@ -8,14 +8,13 @@ This <a href="https://cloudresumechallenge.dev/instructions/">16-step challenge<
 
 I completed the challenge by breaking the project into groups with similar tasks. 
 
-# Set up AWS account
+### Set up AWS account
 
-
-1- Create an AWS account
-2- Set up MFA for root account
-3- Create IAM user
+1. Create an AWS account
+2. Set up MFA for root account
+3. Create IAM user
   - Create new user
   - Assign permission
-4- Set up AWS vault <a href="https://github.com/99designs/aws-vault">AWS Vault</a>
-5- Create S3 Bucket
+4. Set up AWS vault <a href="https://github.com/99designs/aws-vault">AWS Vault</a>
+5. Create S3 Bucket
 
