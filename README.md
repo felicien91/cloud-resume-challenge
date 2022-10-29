@@ -15,6 +15,7 @@ I completed the challenge by breaking the project into groups with similar tasks
 3. Create IAM user
   - Create new user
   - Assign permission
-4. Set up AWS vault <a href="https://github.com/99designs/aws-vault">AWS Vault</a>
-5. Create S3 Bucket
+4. Set up <a href="https://github.com/99designs/aws-vault">AWS Vault</a>
+5. Set up S3 Bucket
+6. Set up SAM CLI
 
